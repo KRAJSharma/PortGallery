@@ -1,0 +1,109 @@
+body            {background-color: #0c0c0c;
+				background-image: radial-gradient( #005186 0%, #0c0c0c 65%);
+				margin:0%;
+				padding: 0%;
+				background-repeat: no-repeat;
+				height: 100vh;
+				width: 100%;}
+
+#particles-js   {padding: 0%;
+				position: fixed;
+				height: 100%;
+				width: 100%;}
+
+ul              {list-style: none;
+				opacity: .8;
+				margin: 0;
+				padding: 0;
+				background-color: #0c0c0c;
+				overflow: hidden;
+				widows: 100%;}
+
+ul li          {float: left;
+				line-height: 40px;
+				text-align: center;
+				opacity: .8;
+				height: 40px;
+				width: 20%;}
+
+ul li a         {display: block;
+				color: azure;
+				text-align: center;
+				text-decoration: none;
+				opacity: .8;}
+
+ul li:hover     {background-color:  #111}
+
+ul li ul li:hover{display: block;}    
+
+#r1				{font-family: cursive;
+				font-size: 4vh;
+				padding: 0;
+				margin: 0;
+				top: 100%;
+				position: absolute;
+				text-align: center;
+				color: aliceblue;
+				cursor: text;
+				height: 6vh;
+				width: 100%;
+				background-color: #0c0c0c;
+				background-image: radial-gradient(  #0c0c0c 30%);
+				border-width: 100%;}
+
+#img			{background: url("../images/otaku1.png");
+				background-size: contain;
+				position: absolute;
+				height: 250px;
+				width: 250px;
+				bottom: 35%;
+				right: 77.5%;
+				border-width: 100%;
+				border-radius: 100%;
+				border-style: solid;
+				border-color:#111;
+				box-shadow: 2px 2px 12px 12px black;
+				}
+
+
+   
+#img:hover		{background: url("../images/4.jpg");
+				background-size: cover;}
+		
+
+
+#faded1			{
+				font-family: cursive;
+				animation:fade1 8s;
+				color: aliceblue; 
+				font-size: 8vh;
+				position: absolute;
+				left: 45%;
+				top: 50vh;
+				cursor: text;
+				}
+
+@keyframes fade1{
+				from
+				{opacity: 0;}
+				to
+				{opacity: 1;}
+				}
+
+#faded2			{
+				font-family: cursive;
+				animation:fade1 8s;
+				color: aliceblue; 
+				font-size: 500%;
+				position: absolute;
+				left: 25%;
+				top: 35%;
+				cursor: text;
+				}
+
+@keyframes fade2{
+				from
+				{opacity: 0;}
+				to
+				{opacity: 1;}
+				}
