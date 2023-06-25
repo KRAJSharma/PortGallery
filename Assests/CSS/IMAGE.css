@@ -59,77 +59,77 @@ ul li ul li:hover{display: block;}
 				box-shadow: inset 0px 0px 0px 3px #333;
 				background-blend-mode: luminosity;}
 
-#img1			{background: url("../images/25.jpg");
+#img1			{background: url("../media/25.jpg");
 				background-size: cover;
 				top: 10%;
 				left: 10%;
 				cursor: pointer;}
 
-#img2			{background: url("../images/24.jpg");
+#img2			{background: url("../media/24.jpg");
 				background-size: cover;
 				top: 10%;
 				left: 30.5%;
 				cursor: pointer;}
 
-#img3			{background: url("../images/25.jpg");
+#img3			{background: url("../media/25.jpg");
 				background-size: cover;
 				top: 10%;
 				left: 51%;
 				cursor: pointer;}
 
-#img4			{background: url("../images/24.jpg");
+#img4			{background: url("../media/24.jpg");
 				background-size: cover;
 				top: 10%;
 				left: 71.5%;
 				cursor: pointer;}
 
-#img5			{background: url("../images/25.jpg");
+#img5			{background: url("../media/25.jpg");
 				background-size: cover;
 				top: 50%;
 				left: 10%;
 				cursor: pointer;}
 
-#img6			{background: url("../images/24.jpg");
+#img6			{background: url("../media/24.jpg");
 				background-size: cover;
 				top: 50%;
 				left: 30.5%;
 				cursor: pointer;}
 
-#img7			{background: url("../images/25.jpg");
+#img7			{background: url("../media/25.jpg");
 				background-size: cover;
 				top: 50%;
 				left: 51%;
 				cursor: pointer;}
 
-#img8			{background: url("../images/24.jpg");
+#img8			{background: url("../media/24.jpg");
 				background-size: cover;
 				top: 50%;
 				left: 71.5%;
 				cursor: pointer;}				
 
 
-#img1:hover		{background: url("../images/5.png");
+#img1:hover		{background: url("../media/5.png");
 				background-size: cover;}
 
-#img2:hover		{background: url("../images/6.jpg");
+#img2:hover		{background: url("../media/6.jpg");
 				background-size: cover;}
 
-#img3:hover		{background: url("../images/7.jpg");
+#img3:hover		{background: url("../media/7.jpg");
 				background-size: cover;}
 
-#img4:hover		{background: url("../images/8.jpg");
+#img4:hover		{background: url("../media/8.jpg");
 				background-size: cover;}
 
-#img5:hover		{background: url("../images/9.jpg");
+#img5:hover		{background: url("../media/9.jpg");
 				background-size: cover;}
 
-#img6:hover		{background: url("../images/10.jpg");
+#img6:hover		{background: url("../media/10.jpg");
 				background-size: cover;}
 
-#img7:hover		{background: url("../images/11.jpg");
+#img7:hover		{background: url("../media/11.jpg");
 				background-size: cover;}		
 
-#img8:hover		{background: url("../images/12.jpg");
+#img8:hover		{background: url("../media/12.jpg");
 				background-size: cover;}	
 
 	

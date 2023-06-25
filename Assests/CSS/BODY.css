@@ -51,7 +51,7 @@ ul li ul li:hover{display: block;}
 				background-image: radial-gradient(  #0c0c0c 30%);
 				border-width: 100%;}
 
-#img			{background: url("../images/otaku1.png");
+#img			{background: url("../media/otaku1.png");
 				background-size: contain;
 				position: absolute;
 				height: 250px;
@@ -67,7 +67,7 @@ ul li ul li:hover{display: block;}
 
 
    
-#img:hover		{background: url("../images/4.jpg");
+#img:hover		{background: url("../media/4.jpg");
 				background-size: cover;}
 		
 
